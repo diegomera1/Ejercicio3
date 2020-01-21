@@ -1,0 +1,24 @@
+C:\Users\HBK\source\repos\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\HBK\source\repos\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\HBK\source\repos\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\HBK\source\repos\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
+C:\Users\HBK\source\repos\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\HBK\source\repos\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
+C:\Users\Mndz\Desktop\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\Mndz\Desktop\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\Mndz\Desktop\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\Mndz\Desktop\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
+C:\Users\Mndz\Desktop\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\Mndz\Desktop\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
+C:\Users\Mndz\Desktop\LinQ con Números\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\Mndz\Desktop\LinQ con Números\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\Mndz\Desktop\LinQ con Números\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\Mndz\Desktop\LinQ con Números\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
+C:\Users\Mndz\Desktop\LinQ con Números\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\Mndz\Desktop\LinQ con Números\Ejercicio\obj\Debug\Ejercicio.pdb
+C:\Users\Mndz0\Downloads\U-master\LinQ con Números\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\Mndz0\Downloads\U-master\LinQ con Números\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\Mndz0\Downloads\U-master\LinQ con Números\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\Mndz0\Downloads\U-master\LinQ con Números\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
+C:\Users\Mndz0\Downloads\U-master\LinQ con Números\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\Mndz0\Downloads\U-master\LinQ con Números\Ejercicio\obj\Debug\Ejercicio.pdb

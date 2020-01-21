@@ -1,0 +1,15 @@
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Enero\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Enero\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Enero\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Enero\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Enero\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\Mndz\Desktop\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Mndz\Desktop\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Mndz\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+C:\Users\Mndz\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Mndz\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\Mndz0\Downloads\U-master\LinQ con propiedades\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Mndz0\Downloads\U-master\LinQ con propiedades\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Mndz0\Downloads\U-master\LinQ con propiedades\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+C:\Users\Mndz0\Downloads\U-master\LinQ con propiedades\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Mndz0\Downloads\U-master\LinQ con propiedades\Ejercicio2\obj\Debug\Ejercicio2.pdb
